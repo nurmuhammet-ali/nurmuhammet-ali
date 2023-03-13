@@ -2,7 +2,7 @@ Hi 👋 My name is Nurmuhammet Allanov
 ====================================
 
 * 🖥️  See my portfolio at [nurmuhammet.com](http://nurmuhammet.com)
-* ✉️  You can contact me at [me@nurmuhammet.com](mailto:me@nurmuhammet.com)
+* ✉️  You can contact me at [nurmuhammet@mail.com](mailto:me@nurmuhammet.com)
 
 ### Skills
 
